@@ -7,3 +7,7 @@ Dart is the programming language for Flutter, Google's UI toolkit for building b
 ## About Cheat Sheet
 
 Some unique Dart features found. This code repository, which is based on a Dart language cheat sheet written by Google engineers, guides you through the most important features of the language.
+
+## What you will need
+
+[DartPad](https://dartpad.dev), an interactive browser-based tool that lets you play around with the Dart language features and core libraries. Upon request, you can use an IDE instead, such as [WebStorm](https://www.jetbrains.com/webstorm/), [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Dart plugin, or [Visual Studio Code](https://code.visualstudio.com/) with the Dart Code extension.
