@@ -2,7 +2,7 @@ String foo = 'a string';
 String bar;
 String baz = foo ?? bar;
 
-void main(){
+void main() {
   //The initial value of a is null
   int a;
   a ??= 3;
@@ -12,7 +12,7 @@ void main(){
   print(a);
   //Validation
   print(1 ?? 3);
-  print(a ??  12);
+  print(a ?? 12);
   //Challenge
   bar ??= 'a string';
   print(bar);
