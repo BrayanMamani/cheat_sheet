@@ -10,7 +10,7 @@ class ShoppingCart {
 }
 
 void main() {
-  var list = [10.2,20.2,30.2];
+  var list = [10.2, 20.2, 30.2];
   var shoppingCart = ShoppingCart();
   shoppingCart.prices = list;
   print(shoppingCart.prices);
