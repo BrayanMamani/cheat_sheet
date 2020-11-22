@@ -9,7 +9,7 @@ class Color {
   Color.black() : this(0, 0, 0);
 }
 
-void main(){
+void main() {
   var color = Color.black();
   print('red: ${color.red} - green: ${color.green} - blue: ${color.blue}');
 }
